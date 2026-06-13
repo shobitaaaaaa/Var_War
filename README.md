@@ -82,4 +82,4 @@ class GARCHVaR(BaseVaRModel):
 
 ## Reference
 
-Inspired by [prudhvi-reddy-m/VaRCalculator](https://github.com/prudhvi-reddy-m/VaRCalculator)
+
